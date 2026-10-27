@@ -28,12 +28,12 @@
 ### 📊 Metrics 统计信息
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="Metrics" />
+  <img src="https://raw.githubusercontent.com/xiaoyu11290/xiaoyu11290/main/github-metrics.svg" alt="Metrics" />
 </p>
 
 ### 📝 提交信息
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xiaoyu11290&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="GitHub 统计" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xiaoyu11290&show_icons=true&theme=default" alt="GitHub 统计" />
   <img height="165" src="https://streak-stats.demolab.com?user=xiaoyu11290&theme=default" alt="连续提交" />
 </p>
